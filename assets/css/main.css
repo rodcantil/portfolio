@@ -862,9 +862,9 @@ section,
 
 .portfolio .portfolio-content .portfolio-info .preview-link1 {
   position: absolute;
-  left: 46%;
+  left: calc(46%);
   font-size: 26px;
-  top: 45%;
+  top: calc(45%);
   color: #fff;
   transition: 0.3s;
   line-height: 1.2;
